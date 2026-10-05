@@ -147,3 +147,43 @@ no las presenta como funcionalidades ya construidas.
 
 Node ejecuta este TypeScript mediante eliminación de anotaciones. Esto **no**
 equivale a una comprobación estática con `tsc`; no se realizó esa comprobación.
+
+## Vista visual de los proyectos
+
+### 1. DriveDesk — CRM de ventas
+
+![DriveDesk CRM](./drivedesk.png)
+
+CRM para seguimiento de contactos, oportunidades, citas y pipeline comercial.
+
+---
+
+### 2. StockFlow — Inventario y pedidos
+
+![StockFlow](./stockflow.png)
+
+Sistema de inventario con reservas, pedidos y control para evitar sobreventa.
+
+---
+
+### 3. CampaignLab — Analítica de campañas
+
+![CampaignLab](./campaignlab.png)
+
+Panel de análisis de campañas con métricas como CPL, CPA, CTR y ROAS.
+
+---
+
+### 4. EvidenceDesk — Búsqueda documental
+
+![EvidenceDesk](./evidencedesk.png)
+
+Buscador documental con recuperación de información y trazabilidad de fuentes.
+
+---
+
+### 5. SignalOps — Eventos e incidentes
+
+![SignalOps](./signalops.png)
+
+Panel para procesamiento de eventos, alertas e incidentes.
