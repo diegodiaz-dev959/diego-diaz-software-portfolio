@@ -1,0 +1,12 @@
+{
+  "name": "portafolio-diego",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=24.0.0"},
+  "scripts": {
+    "start": "node server.ts",
+    "test": "node --test tests/*.test.ts",
+    "test:python": "python3 -m unittest discover -s tests -p 'test_*.py' -v"
+  }
+}
